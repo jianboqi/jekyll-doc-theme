@@ -1,8 +1,9 @@
 ---
-title: 3D models
+title: 3D Scenes
 layout: page
 permalink: /3dmodels/
 sectionid: page_3dmodels
+published: true
 ---
 
-3D models downloading:
+3D Scene downloading:
