@@ -6,4 +6,4 @@ sectionid: page_3dmodels
 published: true
 ---
 
-3D Scene downloading:
+3D models downloading:
