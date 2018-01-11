@@ -12,6 +12,7 @@ New release:
 2018-1-11(`version 1.7`): Download it from here: <a href="https://mega.nz/#!y54UhZYR!KtuD8s4LD-u0ipar3Y_I79T7NegOJwwudMPV7xDUQY0" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.7', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.7'});">LESS V1.7</a>
 
 * Circular Fisheye camera, with different projections.
+
 ![fisheye.png]({{site.baseurl}}/img/content/fisheye.png)
 * be able to set NoDataValue
 
