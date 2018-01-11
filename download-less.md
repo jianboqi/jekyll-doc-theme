@@ -3,10 +3,17 @@ title: Download LESS
 layout: page
 permalink: /download-less/
 sectionid: page_dowload
+published: true
 ---
 
 
 New release:
+
+2017-10-15(`version 1.7`): Download it from here: <a href="https://mega.nz/#!y54UhZYR!KtuD8s4LD-u0ipar3Y_I79T7NegOJwwudMPV7xDUQY0" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.7', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.7'});">LESS V1.7</a>
+
+* Circular Fisheye camera, with different projections.
+![fisheye.png]({{site.baseurl}}/fisheye.png)
+* be able to set NoDataValue
 
 2017-10-15(`version 1.6`): Download it from here: <a href="https://mega.nz/#!O4RzHQrS!XemIk_kCFUj5XwEb2URvjRQiSXpeB9qH_D4P-pLfgpQ" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.6', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.3'});">LESS V1.6</a>
 
