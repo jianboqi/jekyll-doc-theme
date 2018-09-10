@@ -6,7 +6,7 @@ redirect_from: /docs/index.html
 
 {{% toc %}}
 
-A new version of User Manual can be found here: <a href="../Attachments/LESS User Manual (v1.8).pdf">LESS User Manual (V1.8)</a>
+A new version of User Manual can be found here: <a href="http://lessrt.org/Attachments/LESS User Manual (v1.8).pdf">LESS User Manual (V1.8)</a>
 
 # Installation
 
