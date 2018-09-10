@@ -6,6 +6,8 @@ redirect_from: /docs/index.html
 
 {{% toc %}}
 
+A new version of User Manual can be found here: <a ref="../Attachments/LESS User Manual (v1.8).pdf">LESS User Manual (V1.8)</a>
+
 # Installation
 
 Download the installer from here [<a href="/projects/less/lessRelease/LESS-1.0.exe.zip" onClick="ga('send', 'event', { eventCategory: 'LESSDownload', eventAction: 'directdownload', eventLabel: 'LESSWin64bit'});">LESS1.0 (win64bit)</a>]. All you need is just to choose a place to install it.
