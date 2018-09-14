@@ -15,5 +15,5 @@ This section provides all the LESS simulations that are built from RAMI scenes.
 #### Debug Mode
 The LESS simulations of all the RAMI3 scenes (facet mode) in the Debug Mode of ROMC can be download here: [LESS simulations for RAMI3](https://github.com/jianboqi/lessrt/releases/download/1.0/ForRAMI3DebugModeSimulatons.zip)
 
-![RAMI3](https://github.com/jianboqi/jianboqi.github.io/blob/master/img/rami3.jpg)
+![RAMI3](https://raw.githubusercontent.com/jianboqi/jianboqi.github.io/master/img/rami3.jpg)
  
