@@ -6,7 +6,7 @@ sectionid: page_3dscenes
 published: true
 ---
 
-## LESS simulation projects of RAMI scenes
+### LESS projects from RAMI scenes
 This section provides all the LESS simulations that are built from RAMI scenes.
 #### For ROMC ([RAMI On-Line Model Checker](http://romc.jrc.ec.europa.eu/WWW/PAGES/ROMC_Model/ROMC_Model_Menu.php))
 #### Validation Mode
