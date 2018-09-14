@@ -9,6 +9,12 @@ published: true
 
 New release:
 
+2018-9-14(`version 1.8.4`): Download it from here: <a href="https://www.jianguoyun.com/c/dl-file/LESS-1.8.4.exe?dt=pf1pq0&kv=amlhbmJvcWlAMTI2LmNvbQ&sd=8u1kx&ud=95u_lNAxJjNmodZjHnqZEA&vr=1" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.7', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.4'});">LESS V1.8.4</a>
+
+* Simulating four component products (e.g., sunlit leaf, sunlit soil, shaded soil, shaded leaf).
+* Introduce repetitive scene for simulating horizontally infinite scenes.
+* Large-scale thermal infrared images (brightness temperature). 
+
 2018-1-11(`version 1.7`): Download it from here: <a href="https://mega.nz/#!y54UhZYR!KtuD8s4LD-u0ipar3Y_I79T7NegOJwwudMPV7xDUQY0" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.7', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.7'});">LESS V1.7</a>
 
 * Circular Fisheye camera, with different projections.
