@@ -9,6 +9,11 @@ published: true
 
 New release:
 
+2018-11-08(`version 1.8.5`): Download it from here: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.5/LESS-1.8.5.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.5'});">LESS V1.8.5</a>
+
+* The reflectance of each pixel of the terrain can be different by inputing a land albedo map.
+* Using triangle mesh as the terrain.
+
 2018-9-14(`version 1.8.4`): Download it from here: <a href="https://github.com/jianboqi/lessrt/releases/download/1.8.4/LESS-1.8.4.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.7', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.4'});">LESS V1.8.4</a>
 
 * Simulating four component products (e.g., sunlit leaf, sunlit soil, shaded soil, shaded leaf).
