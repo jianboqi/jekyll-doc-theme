@@ -1,4 +1,4 @@
----
+r---
 layout: default
 published: true
 ---
@@ -6,7 +6,7 @@ published: true
 <div class="header-container jumbotron">
     <div class="container">
         <h1>LESS</h1>
-        <p>A ray-tracing based radiative transfer simulation model, which is mainly designed for radiometric simulation of forest canopies. It can simulate large-scale (e.g. > 1 km) realistic satellite images and solar radiation in mountainous terrain…</p>
+        <p>A ray-tracing based 3D radiative transfer model, which is mainly designed for radiometric simulation over heteregeneous 3D scenes. It can simulate large-scale (e.g. > 1 km) satellite images and solar radiation over rugged terrain…</p>
         <p><a class="btn btn-primary btn-lg" href="{{ "/download-less/" | prepend: site.baseurl }}" role="button">Download Now</a></p>
     </div>
 </div>
@@ -18,7 +18,7 @@ published: true
         <div class="col-md-6">
             <h2 class="header-light regular-pad">What is LESS ?</h2>
             <blockquote>
-              <p>LESS is a ray-tracing based radiative transfer simulation model, which is mainly designed for radiometric simulation of forest canopies, but also can simulate other kinds of scenes (such as cities etc.). A possible advantage of LESS is that it can simulate relatively large areas with millions of single trees, thus we named it as Large-scale Emulation System for forest Simulation (LESS). Through parallel computing, LESS can run on high-performance computing clusters （e.g. > 1000 cores). It can also combine some common computers into a parallel computing cluster in a fast and simple way, which greatly increases the usability of LESS when we do not have access to high-performance clusters. LESS is developed with Java, Python and C++. LESS can simulate radiance (BRF) images, downwelling and upwelling radiation, fisheye images with different projections. </p>
+              <p>LESS is a ray-tracing based 3D radiative transfer model, which can simulate remote sensing data and images over large-scale and realistic 3D scenes. LESS employs a weighted forward photon tracing (FPT) method to simulate multispectral bidirectional reflectance factor (BRF) or flux-related data (e.g., downwelling radiation) and a backward path tracing (BPT) method to generate sensor images (e.g., fisheye images) or large-scale (e.g. 1 km2) spectral images. The BPT also has been extended to simulate thermal infrared radiation by using an on-the-fly computation of the sunlit and shaded scene components. It also provides a user-friendly graphic user interface (GUI) and a set of tools to help construct the landscape and set parameters. The accuracy of LESS is evaluated with other models as well as field measurements in terms of directional BRFs and pixel-wise simulated image comparisons, which shows very good agreement. LESS can work on both single computer and computing clusters. LESS is developed with Java, Python and C++. </p>
             </blockquote>
         </div>
         <div class="col-md-6 text-center" style="margin-top: 55px;">
