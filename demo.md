@@ -7,4 +7,4 @@ published: true
 ---
 
 1. Hotspot effect captured by a perspective camera (flight height around 500 m).
-![Hotspot](jianboqi.github.io/img/content/hotspot.gif)
+![Hotspot](http://jianboqi.github.io/img/content/hotspot.gif)
