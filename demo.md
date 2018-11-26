@@ -10,4 +10,4 @@ published: true
 ![Hotspot](http://jianboqi.github.io/img/content/hotspot.gif)
 
 ##### 2. Downwelling solar radiation changing with time over rugged terrain (12 km × 12 km)
-<img src="img/content/downwelling_radiation.gif" width="500" height="375" />
+<img src="http://jianboqi.github.io/img/content/downwelling_radiation.gif" width="500" height="375" />
