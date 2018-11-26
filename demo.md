@@ -7,7 +7,7 @@ published: true
 ---
 
 ##### 1. Hotspot effect captured by a perspective camera (flight height around 500 m).
-![Hotspot](http://jianboqi.github.io/img/content/hotspot.gif)
+<img src="http://jianboqi.github.io/img/content/hotspot.gif" width="400" height="400" />
 
 ##### 2. Downwelling solar radiation changing with time over rugged terrain (12 km × 12 km)
 <img src="http://jianboqi.github.io/img/content/downwelling_radiation.gif" width="500" height="375" />
