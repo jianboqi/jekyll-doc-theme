@@ -14,7 +14,7 @@ New release:
 * Prosect-5 and Prospect-D have been integrated into LESS.
 * Vertical profile of fPAR for each scene component can be simulated.
 
-![prospect_fpar.jpg]({{site.baseurl}}/img/content/prospect_fpar.jpg)
+![prospect_fpar1.jpg]({{site.baseurl}}/img/content/prospect_fpar1.jpg)
 
 2018-11-08(`version 1.8.5`): Download it from here: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.5/LESS-1.8.5.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.5'});">LESS V1.8.5</a>
 
