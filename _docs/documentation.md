@@ -17,7 +17,7 @@ Currently, the GUI is not provided for linux systems, because of some difficulti
 However, the radiative transfer core can run on linux with commandline. The workflow is:
 **Generate scene file (windows)**->**upload scene file to linux**->**run with commandline**. This is particularly useful when we want to do simulation with a powerful linux server (e.g., high performance computer or clusters).
 
-Under "Parameters" folder, there is a folder named "_scenefile", you can copy all the contents of the folder into the linux system.
+After scene generation, under "Parameters" folder, there is a folder named "_scenefile", you can copy all the contents of the folder into the linux system.
 and run with **`lessrt _scenefile/main.xml`**. If you are doing a batch simulation, you can also do all the simulations with **`lessrt _scenefile/nameofbatch*.xml`**
 
 ##### The commandline version of LESS can be downloaded from:
