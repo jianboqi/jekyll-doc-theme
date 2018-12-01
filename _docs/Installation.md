@@ -1,7 +1,6 @@
 ---
-title: Installation
+title: installation
 permalink: /docs/Installation/
-redirect_from: /docs/index.html
 ---
 
 ##### Use LESS under linux
