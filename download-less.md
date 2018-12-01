@@ -9,7 +9,7 @@ published: true
 
 New release:
 
-2018-11-30(`version 1.8.6`): Download it from here: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.6'});">LESS-1.8.6</a>
+2018-11-30(`version 1.8.6`): Download it from here: Windows: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.6'});">LESS-1.8.6</a>. For linux: please refer to [Use LESS under Linux](http://lessrt.org/docs/documentation/)
 
 * Prosect-5 and Prospect-D have been integrated into LESS.
 * Vertical profile of fPAR for each scene component can be simulated.
