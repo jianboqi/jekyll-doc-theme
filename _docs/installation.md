@@ -11,7 +11,7 @@ permalink: /docs/installation/
 
 Currently, the GUI version of LESS is only provided for Windows and Ubuntu 16.04.
 
-It can be download here:
+It can be download here:  <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6-ubuntu16.04-GUI.zip" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSLin64bitv1.8.6'});">LESS-1.8.6-Ubuntu16.04-GUI</a>.
 
 After downloading the package, unzip the file, start the program by `./less.sh`
 
