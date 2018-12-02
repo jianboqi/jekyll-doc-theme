@@ -5,9 +5,16 @@ permalink: /docs/installation/
 
 <br>
 
-#### Use LESS under linux
+### Use LESS under linux
 
-Currently, the GUI version of LESS is only provided for Windows and Ubuntu 16.04. For other Linux distributions, the GUI is not provided because of some difficulties to package all of them in a single installer.
+#### GUI Version
+
+Currently, the GUI version of LESS is only provided for Windows and Ubuntu 16.04.
+
+
+#### Command line Mode
+
+For other Linux distributions, the GUI is not provided because of some difficulties to package all of them in a single installer.
 However, the radiative transfer core is compiled and provided for CentOS 6.8. The workflow is:
 **Generate scene file (windows or ubuntu)**->**upload scene file to linux**->**run with commandline**. This is particularly useful when we want to do simulation with a powerful linux server (e.g., high performance computer or clusters).
 
