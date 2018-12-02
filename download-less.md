@@ -9,7 +9,7 @@ published: true
 
 #### New release:
 
-#### 2018-11-30(`version 1.8.6`):
+##### 2018-11-30(`version 1.8.6`):
 
 Windows: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.6'});">LESS-1.8.6-Windows</a>. 
 
