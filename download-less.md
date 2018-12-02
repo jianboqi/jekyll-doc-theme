@@ -14,7 +14,7 @@ published: true
 
 Windows: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.6'});">LESS-1.8.6-Windows</a>. 
 
-Linux-Ubuntu 16.04: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.6'});">LESS-1.8.6-Windows</a>. 
+Linux-Ubuntu 16.04: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6-ubuntu16.04-GUI.zip" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSLin64bitv1.8.6'});">LESS-1.8.6-Ubuntu16.04-GUI</a>. 
 
 For more information of using LESS under linux,e.g., CentOS, please refer to [Use LESS under Linux](http://lessrt.org/docs/installation/)
 
