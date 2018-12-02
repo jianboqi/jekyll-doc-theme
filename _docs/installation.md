@@ -7,14 +7,19 @@ permalink: /docs/installation/
 
 #### Use LESS under linux
 
-Currently, the GUI is not provided for linux systems, because of some difficulties to package all of them in a single installer.
-However, the radiative transfer core can run on linux with commandline. The workflow is:
-**Generate scene file (windows)**->**upload scene file to linux**->**run with commandline**. This is particularly useful when we want to do simulation with a powerful linux server (e.g., high performance computer or clusters).
+Currently, the GUI version of LESS is only provided for Windows and Ubuntu 16.04. For other Linux distributions, the GUI is not provided because of some difficulties to package all of them in a single installer.
+However, the radiative transfer core is compiled and provided for CentOS 6.8. The workflow is:
+**Generate scene file (windows or ubuntu)**->**upload scene file to linux**->**run with commandline**. This is particularly useful when we want to do simulation with a powerful linux server (e.g., high performance computer or clusters).
 
-After scene generation, under "Parameters" folder, there is a folder named "_scenefile", you can copy all the contents of the folder into the linux system.
+After scene generation, under "Parameters" folder, there is a folder named "_scenefile", you can copy all the contents of the folder into the CentOS system.
 and run with **`lessrt _scenefile/main.xml`**. If you are doing a batch simulation, you can also do all the simulations with **`lessrt _scenefile/nameofbatch*.xml`**
 
-##### The commandline version of LESS can be downloaded from:
-Ubuntu 16.04: [LESS-1.8.6-Ubuntu16.04.zip](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6-Ubuntu16.04.zip)
+##### The commandline version of LESS for CentOS can be downloaded from:
+CentOS 6.8: [LESS-1.8.6-CentOS6.8-cmd.zip](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6-CentOS6.8-cmd.zip)
 
-CentOS 6.8: [LESS-1.8.6-CentOS6.8.zip](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6-CentOS6.8.zip)
+##### Using commandline for Ubuntu system:
+If your ubuntu system does not have a graphic user interface or you can only work in command line mode (e.g., servers), the command line is also accessable for Ubuntu. You can download it here,
+Ubuntu 16.04: [LESS-1.8.6-Ubuntu16.04-cmd.zip](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6-Ubuntu16.04-cmd.zip).
+
+Now, the workflow is: **Generate scene file (windows)**->**upload scene file to linux**->**run with commandline**.
+
