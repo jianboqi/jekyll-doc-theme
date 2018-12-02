@@ -15,6 +15,8 @@ It can be download here:  <a href="https://github.com/jianboqi/lessrt/releases/d
 
 After downloading the package, unzip the file, start the program by `./less.sh`
 
+If a Ubuntu server (e.g., has many cores) does not have a graphic interface, the GUI version of LESS is still usable. You can access the server from a remote client computer (with Ubuntu system) through `ssh -Y username@serverIP`, and then start LESS by `./less.sh`. The LESS GUI will display on your client computer, but the actual computation will take place on the server side.
+
 
 ### Command line Mode
 
