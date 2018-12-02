@@ -5,14 +5,14 @@ permalink: /docs/installation/
 
 <br>
 
-### Use LESS under linux
+## Use LESS under linux
 
-#### GUI Version
+### GUI Version
 
 Currently, the GUI version of LESS is only provided for Windows and Ubuntu 16.04.
 
 
-#### Command line Mode
+### Command line Mode
 
 For other Linux distributions, the GUI is not provided because of some difficulties to package all of them in a single installer.
 However, the radiative transfer core is compiled and provided for CentOS 6.8. The workflow is:
