@@ -10,7 +10,10 @@ permalink: /docs/installation/
 ### GUI Version
 
 Currently, the GUI version of LESS is only provided for Windows and Ubuntu 16.04.
+
 It can be download here:
+
+After downloading the package, unzip the file, start the program by `./less.sh`
 
 
 ### Command line Mode
