@@ -8,6 +8,7 @@ published: true
 
 
 #### New release:
+<br>
 
 ##### 2018-11-30(`version 1.8.6`):
 
