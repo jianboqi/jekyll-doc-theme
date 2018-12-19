@@ -4,7 +4,7 @@ layout: page
 permalink: /publications/
 sectionid: page_publications
 ---
-* Qi, J., Xie, D., Yin, T., Yan, G., Gastellu-Etchegorry, J.-P., Li, L., Zhang, W., Mu, X., Norford, L.K., 2019. [LESS: LargE-Scale remote sensing data and image simulation framework over heterogeneous 3D scenes](https://www.sciencedirect.com/science/article/pii/S0034425718305443?via%3Dihub). Remote Sens. Environ. 221, 695–706. https://doi.org/10.1016/j.rse.2018.11.036
+* Qi, J., Xie, D., Yin, T., Yan, G., Gastellu-Etchegorry, J.-P., Li, L., Zhang, W., Mu, X., Norford, L.K., 2019. [LESS: LargE-Scale remote sensing data and image simulation framework over heterogeneous 3D scenes](https://www.sciencedirect.com/science/article/pii/S0034425718305443?via%3Dihub). Remote Sensing of Environment. 221, 695–706. https://doi.org/10.1016/j.rse.2018.11.036
 
 * Qi, J., Xie, D., Guo, D. and Yan, G., 2017. <a href="https://www.researchgate.net/publication/320392804_A_Large-Scale_Emulation_System_for_Realistic_Three-Dimensional_3-D_Forest_Simulation">A Large-Scale Emulation System for Realistic Three-Dimensional (3-D) Forest Simulation </a>. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 10(11), pp.4834-4843.
 
