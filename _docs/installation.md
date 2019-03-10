@@ -39,5 +39,5 @@ Now, the workflow is: **Generate scene file (windows)**->**upload scene file to 
 
 ## Problems under Windows
 
-If you can not start LESS or can not launch simulations, please try to install VC runtime [VC_redist_2017.x64](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/VC_redist_2017.x64.exe) and [vcredist_x64_2010.exe](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/vcredist_x64_2010.exe)
-
+* If you can not start LESS or can not launch simulations, please try to install VC runtime [VC_redist_2017.x64](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/VC_redist_2017.x64.exe) and [vcredist_x64_2010.exe](https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/vcredist_x64_2010.exe)
+* 不要安装在中文路径下
