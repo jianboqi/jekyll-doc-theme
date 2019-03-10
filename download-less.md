@@ -23,6 +23,8 @@ For more information of using LESS under linux,e.g., CentOS, please refer to [Us
 
 * Prosect-5 and Prospect-D have been integrated into LESS.
 * Vertical profile of fPAR for each scene component can be simulated.
+* Add a new Database which contains several tree objects(OBJ file) under folder "LESS/app/Database"
+* A new linechart tool is added to plot optical properties
 
 ![prospect_fpar1.jpg]({{site.baseurl}}/img/content/prospect_fpar1.jpg)
 
