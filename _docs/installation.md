@@ -37,3 +37,7 @@ Ubuntu 16.04: [LESS-1.8.6-Ubuntu16.04-cmd.zip](https://github.com/jianboqi/lessr
 
 Now, the workflow is: **Generate scene file (windows)**->**upload scene file to linux**->**run with command line**.
 
+## Problems under Windows
+
+If you can not start LESS or can not launch simulations, please try to install VC runtime [VC_redist_2017.x64]() and [vcredist_x64_2010.exe]()
+
