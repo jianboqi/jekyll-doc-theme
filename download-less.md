@@ -16,7 +16,7 @@ If you have problems under Windows,please refer to [problems under windows](http
 ##### 2019-3-11 (`version 1.8.7`):
 **Windows**: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS-1.8.7/LESS-1.8.7-win64.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.7'});">LESS-1.8.7-win64</a>. 
 
-**Linux**: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS-1.8.7/LESS-1.8.8-Ubuntu16.04.zip" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.7'});">LESS-1.8.7-Ubuntu16.04</a>. 
+**Linux**: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS-1.8.7/LESS-1.8.7-Ubuntu16.04.zip" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.7'});">LESS-1.8.7-Ubuntu16.04</a>. 
 
 * Add a new Database which contains several tree objects(OBJ file) under folder "LESS/app/Database"
 * A new linechart tool is added to plot optical properties
