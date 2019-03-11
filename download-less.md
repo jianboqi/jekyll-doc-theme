@@ -13,6 +13,15 @@ If you have problems under Windows,please refer to [problems under windows](http
 <br>
 <br>
 
+##### 2018-11-30(`version 1.8.7`):
+**Windows**: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS-1.8.7/LESS-1.8.7-win64.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.7'});">LESS-1.8.7-win64</a>. 
+
+**Linux**: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS-1.8.7/LESS-1.8.8-Ubuntu16.04.zip" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.7'});">LESS-1.8.7-Ubuntu16.04</a>. 
+
+* Add a new Database which contains several tree objects(OBJ file) under folder "LESS/app/Database"
+* A new linechart tool is added to plot optical properties
+
+
 ##### 2018-11-30(`version 1.8.6`):
 
 Windows: <a href="https://github.com/jianboqi/lessrt/releases/download/LESS1.8.6/LESS-1.8.6.exe" onClick="ga('send', 'event', { eventCategory: 'LESSDownloadv1.8', eventAction: 'directdownload', eventLabel: 'LESSWin64bitv1.8.6'});">LESS-1.8.6-Windows</a>. 
@@ -23,8 +32,6 @@ For more information of using LESS under linux,e.g., CentOS, please refer to [Us
 
 * Prosect-5 and Prospect-D have been integrated into LESS.
 * Vertical profile of fPAR for each scene component can be simulated.
-* Add a new Database which contains several tree objects(OBJ file) under folder "LESS/app/Database"
-* A new linechart tool is added to plot optical properties
 
 ![prospect_fpar1.jpg]({{site.baseurl}}/img/content/prospect_fpar1.jpg)
 
