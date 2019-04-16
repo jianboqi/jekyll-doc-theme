@@ -10,4 +10,4 @@ redirect_from: /docs/index.html
 
 ###Examples
 
-Example 01-Surface reflectance and FPAR simulatoin: [`Example 01-Surface reflectance and FPAR simulatoin`](http://lessrt.org/Attachments/LESS_User_Manual_1.8.4.pdf)
+Example 01-Surface reflectance and FPAR simulatoin: [`Example 01-Surface reflectance and FPAR simulatoin.pdf`](http://lessrt.org/Attachments/Example 01-Surface reflectance and FPAR simulation.pdf)
