@@ -11,11 +11,11 @@ There are two documents that help you to be familiar with LESS
 - the `Example Document` that provides some examples and the corresponding simulation projects.
 
 ### LESS User Manual
-[`LESS User Manual (V1.8.8).pdf`](http://lessrt.org/Attachments/LESS_User_Manual_1.8.8.pdf)
+[LESS User Manual (V1.8.8).pdf](http://lessrt.org/Attachments/LESS_User_Manual_1.8.8.pdf)
 
 ### LESS Example Document
 
-[`LESS Example Document (V1.8.8).pdf`](http://lessrt.org/Attachments/LESS_Example_Document_V1.8.8.pdf)
+[LESS Example Document (V1.8.8).pdf](http://lessrt.org/Attachments/LESS_Example_Document_V1.8.8.pdf)
 
 #### LESS simulation projects
 
