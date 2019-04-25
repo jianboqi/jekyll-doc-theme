@@ -10,6 +10,7 @@ published: true
 #### New release:
 
 If you have problems under Windows,please refer to [problems under windows](http://lessrt.org/docs/installation/)
+`[注：请不要使用中文路径]`
 <br>
 <br>
 
